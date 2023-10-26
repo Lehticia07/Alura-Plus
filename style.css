@@ -7,6 +7,10 @@
 
 body{
     background-color: var(--fundo);
+    color: #FFFFFF;
 }
 
-
+*{
+    margin: 0%;
+    padding: 0%;
+}
